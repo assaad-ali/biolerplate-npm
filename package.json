@@ -1,8 +1,14 @@
-{	
+
+{
 	"name": "fcc-learn-npm-package-json",
-	"author": "Ali Assaad",
+  "author": "Ali Assaad",
+  "description": "Starting with Node Package Manager",
+  "keywords": ["npm", "microservices", "guide"],
+  "license": "MIT",
+  "version": "1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
